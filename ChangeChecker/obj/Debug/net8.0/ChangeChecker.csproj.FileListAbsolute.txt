@@ -1,0 +1,14 @@
+D:\MobileApp\ChangeChecker\bin\Debug\net8.0\ChangeChecker.exe
+D:\MobileApp\ChangeChecker\bin\Debug\net8.0\ChangeChecker.deps.json
+D:\MobileApp\ChangeChecker\bin\Debug\net8.0\ChangeChecker.runtimeconfig.json
+D:\MobileApp\ChangeChecker\bin\Debug\net8.0\ChangeChecker.dll
+D:\MobileApp\ChangeChecker\bin\Debug\net8.0\ChangeChecker.pdb
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.AssemblyInfoInputs.cache
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.AssemblyInfo.cs
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.csproj.CoreCompileInputs.cache
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.dll
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\refint\ChangeChecker.dll
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.pdb
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ChangeChecker.genruntimeconfig.cache
+D:\MobileApp\ChangeChecker\obj\Debug\net8.0\ref\ChangeChecker.dll
