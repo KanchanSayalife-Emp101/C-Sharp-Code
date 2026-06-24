@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\bin\Debug\net8.0\ChangeChecker.exe
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\bin\Debug\net8.0\ChangeChecker.deps.json
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\bin\Debug\net8.0\ChangeChecker.runtimeconfig.json
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\bin\Debug\net8.0\ChangeChecker.dll
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\bin\Debug\net8.0\ChangeChecker.pdb
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.sourcelink.json
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.dll
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\refint\ChangeChecker.dll
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.pdb
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ChangeChecker.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C-Sharp-Code\ChangeChecker\obj\Debug\net8.0\ref\ChangeChecker.dll

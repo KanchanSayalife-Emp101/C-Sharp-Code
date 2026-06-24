@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChangeChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48cc4c3154aead956348397f30508869eba8d1e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c6e212a76172763a19dfa2df197eea0abebec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChangeChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChangeChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,4 +2,6 @@
 using ChangeChecker;
 
 Console.WriteLine("Hello, World!");
-IcecreamSeller.Main();
+//IcecreamSeller.Main();
+Calculator.Main();
+Pattern.Main();
